@@ -16,3 +16,5 @@
 A minimal example with the conditional version.
 
 [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/picocss/examples/tree/master/v2-conditional-styling)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/picocss/examples)
